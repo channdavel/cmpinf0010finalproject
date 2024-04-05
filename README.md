@@ -2,7 +2,7 @@
 
 ## Team CS, Final Project Group 59
 
-Channdavel Kong csk56@pitt.edu : **ArrestsInPittsburgh.pynb** , **FireIncidentsInPittsburgh.ipynb**
+Channdavel Kong csk56@pitt.edu : **ArrestsInPittsburgh.ipynb** , **FireIncidentsInPittsburgh.ipynb**
 
 Spencer Delgiudice spd75@pitt.edu :
 
