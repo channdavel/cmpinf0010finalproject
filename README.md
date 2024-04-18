@@ -4,7 +4,7 @@
 
 Channdavel Kong csk56@pitt.edu : **ArrestsInPittsburgh.ipynb** , **FireIncidentsInPittsburgh.ipynb**
 
-Spencer Delgiudice spd75@pitt.edu :
+Spencer Delgiudice spd75@pitt.edu : test
 
 ## Dataset Links:
 
